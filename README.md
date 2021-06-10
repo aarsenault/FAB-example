@@ -19,7 +19,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ### `npm test`
 
 Launches the test runner.
-Tests cover the main show/hide functionality and verify the correct
+Tests cover the main show/hide functionality of the FAB and verify the correct titles are loaded onto the individual cards
 
 
 ### `npm build`
